@@ -356,5 +356,4 @@ h1 {
 }
 </style>
 
-
-<font class="absolute bottom-0 right-0><SlideCurrentNo />/<SlidesTotal /></font>
+<font class="absolute bottom-5 right-5"><SlideCurrentNo />/<SlidesTotal /></font>
